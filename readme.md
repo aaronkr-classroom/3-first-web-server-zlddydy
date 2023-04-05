@@ -1,6 +1,6 @@
 # 1. 노드 웹 서버 첫 걸음
 
-**Note** 과제를 다운로드하거나 GitHub 클래스룸에 다시 업로드하는 데 문제가 있는 경우 [다음 PDF에서 도움말을 찾으세요](https://github.com/ut-nodejs/ut-nodejs.github.io/raw/master/slides/_3.%20%EA%B3%BC%EC%A0%9C%20%EB%AC%B8%EC%A0%9C%EC%99%80%20%ED%95%B4%EA%B2%B0.pdf).
+**Note** 과제를 다운로드하거나 GitHub 클래스룸에 다시 업로드하는 데 문제가 있는 경우 [다음 PDF에서 도움말을 찾으세요](https://github.com/ut-nodejs/ut-nodejs.github.io/raw/master/slides/1.3-6-starting-nodejs.pdf).
 
 이 과제는 3 부분으로 나뉩니다.
 
